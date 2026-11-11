@@ -1,7 +1,7 @@
 <h1 align="center">Jamyang Ugyen Tshomo</h1>
 <p align="center"><strong>Biotechnology · Bioinformatics · Machine Learning · Health Innovation</strong></p>
 
-![Biological data to better health](assets/profile-banner.svg)
+![Biomedical science and computational biology](assets/profile-banner.svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jamyangut/">LinkedIn</a> ·
@@ -69,11 +69,11 @@ Studied **[cholesterol depletion in lovastatin-treated Neuro2a and HN2 cells](ht
 ## Tools and methods
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-143D42?style=flat-square&amp;logo=python&amp;logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-143D42?style=flat-square&amp;logo=r&amp;logoColor=white" />
-  <img alt="Bioinformatics" src="https://img.shields.io/badge/Bioinformatics-21635B?style=flat-square" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-21635B?style=flat-square" />
-  <img alt="Experimental Biology" src="https://img.shields.io/badge/Experimental_Biology-21635B?style=flat-square" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-16101F?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-16101F?style=flat-square&amp;logo=r&amp;logoColor=white" />
+  <img alt="Bioinformatics" src="https://img.shields.io/badge/Bioinformatics-6B2FA0?style=flat-square" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6B2FA0?style=flat-square" />
+  <img alt="Experimental Biology" src="https://img.shields.io/badge/Experimental_Biology-6B2FA0?style=flat-square" />
 </p>
 
 | Area | Tools and methods |
