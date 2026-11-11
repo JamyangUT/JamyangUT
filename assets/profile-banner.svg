@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">From biological data to better health</title>
+  <desc id="desc">A dark teal scientific banner with a molecular network and voice, eye, and cognition labels.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102C35"/><stop offset="1" stop-color="#174D48"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9EE4CF" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M710 0L640 300" stroke="#9EE4CF" stroke-opacity="0.12"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="52" y="53" fill="#9EE4CF" font-size="13" font-weight="600" letter-spacing="3">BIOTECHNOLOGY / BIOINFORMATICS / HEALTH INNOVATION</text>
+    <text x="48" y="123" fill="#F0F7F4" font-size="51" font-weight="700">From biological data</text>
+    <text x="48" y="182" fill="#B1EAD7" font-size="51" font-weight="700">to better health.</text>
+    <rect x="52" y="218" width="36" height="3" rx="1.5" fill="#E3C68E"/>
+    <text x="102" y="231" fill="#D0E0DB" font-size="17">Research. Build. Bring toward deployment.</text>
+  </g>
+  <g fill="none" stroke="#9EE4CF" stroke-width="1.5" stroke-opacity="0.3">
+    <path d="M768 72L908 146L1067 72M768 72L802 236L908 146L1067 235L1067 72L802 236M908 146L1143 157"/>
+    <circle cx="908" cy="146" r="61" stroke-opacity="0.13"/>
+    <circle cx="908" cy="146" r="77" stroke-opacity="0.07"/>
+  </g>
+  <g fill="#9EE4CF">
+    <circle cx="768" cy="72" r="5"/><circle cx="1067" cy="72" r="5"/>
+    <circle cx="802" cy="236" r="5"/><circle cx="1067" cy="235" r="5"/>
+    <circle cx="1143" cy="157" r="5"/>
+  </g>
+  <circle cx="908" cy="146" r="39" fill="#1B5B52" stroke="#9EE4CF" stroke-width="1.5"/>
+  <path d="M883 146H889L893 135L899 158L906 128L914 160L920 140L924 146H933" fill="none" stroke="#E1F5EC" stroke-width="2" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#D5EAE1">
+    <text x="727" y="51">VOICE</text><text x="1084" y="76">EYE</text><text x="1006" y="269">COGNITION</text>
+  </g>
+  <g fill="#E3C68E">
+    <circle cx="830" cy="106" r="3"/><circle cx="986" cy="110" r="3"/>
+    <circle cx="860" cy="189" r="3"/><circle cx="990" cy="188" r="3"/>
+  </g>
+</svg>

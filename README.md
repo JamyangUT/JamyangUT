@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Jamyang Ugyen Tshomo</h1>
+<p align="center"><strong>Biotechnology · Bioinformatics · Machine Learning · Health Innovation</strong></p>
 
-<!--
-**JamyangUT/JamyangUT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Biological data to better health](assets/profile-banner.svg)
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamyangut/">LinkedIn</a> ·
+  <a href="https://github.com/JamyangUT/JamyangTshomo.io">Portfolio source</a> ·
+  <a href="#selected-research">Research</a> ·
+  <a href="#experience">Experience</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am **Co-founder and COO of Biotech Wallah Pvt Ltd**, where we are building an **early cognitive screening tool using voice, eye, and cognitive biomarkers**. My work connects experimental biology, computational research, and the clinical and operational work needed to bring health technologies toward deployment.
+
+From **Bhutan** · **B.Tech in Biotechnology, NIIT University (2022–2026)** · **CGPA: 9.8/10** · **B.Tech program-level bronze medalist**
+
+## What I’m building
+
+### Early cognitive screening · Biotech Wallah Pvt Ltd
+
+We are developing a screening tool that brings together **voice, eye, and cognitive biomarkers** for early cognitive screening.
+
+As **Co-founder and COO**, I work on regulatory strategy, clinical validation planning, data governance, and go-to-market strategy, including hospital partnerships to support clinical benchmarking.
+
+## Selected research
+
+| Project | Approach | Research outcome |
+| :--- | :--- | :--- |
+| **Lung cancer biomarker discovery** · 2025 | Multi-dataset GEO analysis; Random Forest, LASSO, and SVM; network and enrichment analysis | Identified **TOP2A, PRC1, and MCM4** as candidate biomarkers. Presented at **ICRITO 2025**; study published in **IEEE Xplore**. |
+| **Keratoconus RNA-Seq analysis** · 2024 | 10 keratoconus vs. 10 control myopia samples; FastQC, HISAT2, EdgeR, and functional enrichment | Prioritized **FUBP3, ZC3H11A, DYNC1LI2, and RNMT** as candidate diagnostic and therapeutic targets. |
+
+<details>
+<summary><strong>Lung cancer study — methods and contribution</strong></summary>
+
+**Integrative Bioinformatics and ML Strategy for Identifying Lung Cancer Biomarkers**
+
+- Led an integrative analysis across ten GEO datasets, including differential expression merging across eight datasets.
+- Applied Random Forest, LASSO, and SVM for ML-driven feature selection.
+- Used STRING and Cytoscape for interaction network analysis and Enrichr for functional enrichment.
+- Presented the study at the 12th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO 2025), Amity University, Noida.
+
+</details>
+
+<details>
+<summary><strong>Keratoconus study — workflow and contribution</strong></summary>
+
+**RNA-Seq Data Analysis of Keratoconus and Control Myopia Patients**
+
+- Conducted literature review, sequencing quality control with FastQC, and alignment with HISAT2.
+- Analyzed differential expression with EdgeR using FDR, p-value, and log fold-change filters.
+- Investigated corneal degeneration mechanisms through KEGG pathway and Gene Ontology enrichment.
+- Used NCBI, GEO, and Galaxy as data and workflow resources.
+
+</details>
+
+## Experience
+
+**Research Intern · INMAS, DRDO** | January–July 2026
+
+Investigated gamma radiation-induced developmental toxicity and neurotoxicity in zebrafish models, and evaluated cystamine dihydrochloride as a candidate radioprotective countermeasure. Performed apoptosis assays, neural crest development analysis, intracellular ROS measurements, and RNA expression analysis.
+
+**Summer Intern · CSIR-CCMB** | May–July 2025
+
+Studied cholesterol modulation in Neuro2A and HN2 neuronal cells through BCA, MTT, and Amplex Red assays. Worked on cell culture and quantitative data analysis, and presented findings through a research poster.
+
+## Tools and methods
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-143D42?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-143D42?style=flat-square&amp;logo=r&amp;logoColor=white" />
+  <img alt="Bioinformatics" src="https://img.shields.io/badge/Bioinformatics-21635B?style=flat-square" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-21635B?style=flat-square" />
+  <img alt="Experimental Biology" src="https://img.shields.io/badge/Experimental_Biology-21635B?style=flat-square" />
+</p>
+
+| Area | Tools and methods |
+| :--- | :--- |
+| **Transcriptomics** | RNA-Seq, FastQC, HISAT2, EdgeR, differential expression, multi-dataset integration |
+| **Machine learning** | Random Forest, LASSO, SVM |
+| **Biological interpretation** | GEO, NCBI, TCGA, STRING, Cytoscape, Enrichr, KEGG, Gene Ontology, Galaxy |
+| **Experimental research** | Zebrafish experimentation, cell culture, PCR, microscopy, quantitative assays |
+| **Research software** | GraphPad Prism, SnapGene, SwissDock, AutoDock |
+| **Health-tech operations** | Regulatory strategy, clinical validation design, data governance, go-to-market planning |
+
+## Recognition
+
+- **B.Tech program-level bronze medalist**, NIIT University · **CGPA: 9.8/10**
+- **Winner**, Boltzhack Hackathon 2025
+- **Winner**, Enigmatic Enclave Business Case Study Competition, BITS Pilani · 2025
+- **First Runner-up**, Hult Prize NU · 2022
+- **First Runner-up**, National Science Day Quiz · 2025
+- **Best Interdisciplinary Head**, Learner’s Premier League · 2022
+
+## Beyond research
+
+My [personal digital portfolio](https://github.com/JamyangUT/JamyangTshomo.io) uses HTML, CSS, and JavaScript to bring together my projects, skills, and experience.
+
+I’m interested in connecting with people working in **bioinformatics, biomedical machine learning, and health-tech**. [Connect on LinkedIn →](https://www.linkedin.com/in/jamyangut/)
